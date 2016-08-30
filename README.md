@@ -1,2 +1,1 @@
-# hello-world
-working directory for tutorials
+Just trying to learn the system.
